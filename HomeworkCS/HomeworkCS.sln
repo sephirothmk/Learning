@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1 Konzola", "Konzola\OOP1 Konzola.csproj", "{7D3C8CBF-5EDB-48AF-9667-33A01DDD92C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{551243F1-2E38-4594-B09B-75F500F74A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2 Konzola", "OOP2 Konzola\OOP2 Konzola.csproj", "{1BA6F541-1B3A-40BA-9FD3-CA9D190D97E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3 Konzola", "OOP3 Konzola\OOP3 Konzola.csproj", "{137E6D69-F417-4297-9D38-54050B240E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D3C8CBF-5EDB-48AF-9667-33A01DDD92C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3C8CBF-5EDB-48AF-9667-33A01DDD92C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3C8CBF-5EDB-48AF-9667-33A01DDD92C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3C8CBF-5EDB-48AF-9667-33A01DDD92C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551243F1-2E38-4594-B09B-75F500F74A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551243F1-2E38-4594-B09B-75F500F74A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551243F1-2E38-4594-B09B-75F500F74A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551243F1-2E38-4594-B09B-75F500F74A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA6F541-1B3A-40BA-9FD3-CA9D190D97E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA6F541-1B3A-40BA-9FD3-CA9D190D97E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA6F541-1B3A-40BA-9FD3-CA9D190D97E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA6F541-1B3A-40BA-9FD3-CA9D190D97E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137E6D69-F417-4297-9D38-54050B240E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137E6D69-F417-4297-9D38-54050B240E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137E6D69-F417-4297-9D38-54050B240E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137E6D69-F417-4297-9D38-54050B240E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

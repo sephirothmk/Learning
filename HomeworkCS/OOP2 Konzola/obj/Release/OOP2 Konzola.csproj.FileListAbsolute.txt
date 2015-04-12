@@ -1,0 +1,8 @@
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\bin\Release\OOP2 Konzola.exe.config
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\bin\Release\OOP2 Konzola.exe
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\bin\Release\OOP2 Konzola.pdb
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\bin\Release\Model.dll
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\bin\Release\Model.pdb
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\obj\Release\OOP2 Konzola.csprojResolveAssemblyReference.cache
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\obj\Release\OOP2 Konzola.exe
+c:\users\sephiroth\documents\visual studio 2013\Projects\HomeworkCS\OOP2 Konzola\obj\Release\OOP2 Konzola.pdb

@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Glavna";
+    List<int> Blabla = ViewBag.lista;
+}
+
+<h2>Glavna</h2>
+<ul>
+    @foreach (int number in Blabla)
+    {
+        <li>@number</li>
+    }
+</ul>

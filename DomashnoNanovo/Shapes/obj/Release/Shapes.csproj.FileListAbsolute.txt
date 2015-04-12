@@ -1,0 +1,5 @@
+c:\users\sephiroth\documents\visual studio 2013\Projects\DomashnoNanovo\Shapes\bin\Release\Shapes.exe.config
+c:\users\sephiroth\documents\visual studio 2013\Projects\DomashnoNanovo\Shapes\bin\Release\Shapes.exe
+c:\users\sephiroth\documents\visual studio 2013\Projects\DomashnoNanovo\Shapes\bin\Release\Shapes.pdb
+c:\users\sephiroth\documents\visual studio 2013\Projects\DomashnoNanovo\Shapes\obj\Release\Shapes.exe
+c:\users\sephiroth\documents\visual studio 2013\Projects\DomashnoNanovo\Shapes\obj\Release\Shapes.pdb
