@@ -1,6 +1,0 @@
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe.config
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.pdb
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.exe
-c:\users\sephiroth\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.pdb

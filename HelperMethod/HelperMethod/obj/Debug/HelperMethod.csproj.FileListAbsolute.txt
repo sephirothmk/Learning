@@ -1,1 +1,0 @@
-c:\users\sephiroth\documents\visual studio 2013\Projects\HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe.config
