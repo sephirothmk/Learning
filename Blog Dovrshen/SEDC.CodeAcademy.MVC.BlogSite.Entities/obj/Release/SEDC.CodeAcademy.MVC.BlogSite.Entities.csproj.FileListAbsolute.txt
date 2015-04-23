@@ -1,0 +1,4 @@
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Release\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Release\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb

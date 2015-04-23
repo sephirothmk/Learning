@@ -1,0 +1,10 @@
+H:\51. Sources\SEDC\ASPNET2\SEDC.CodeAcademy.MVC\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+H:\51. Sources\SEDC\ASPNET2\SEDC.CodeAcademy.MVC\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+H:\51. Sources\SEDC\ASPNET2\SEDC.CodeAcademy.MVC\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.csprojResolveAssemblyReference.cache
+H:\51. Sources\SEDC\ASPNET2\SEDC.CodeAcademy.MVC\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+H:\51. Sources\SEDC\ASPNET2\SEDC.CodeAcademy.MVC\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\bin\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite.Entities\obj\Debug\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb

@@ -1,0 +1,48 @@
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.dll.config
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.pdb
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Helpers.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Mvc.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Razor.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Razor.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Helpers.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Mvc.xml
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.csprojResolveAssemblyReference.cache
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.dll
+C:\Users\Sephiroth\Desktop\Blog\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.pdb
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.dll.config
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.pdb
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.Entities.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Helpers.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Mvc.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Razor.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\SEDC.CodeAcademy.MVC.BlogSite.Entities.pdb
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Razor.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Helpers.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\bin\System.Web.Mvc.xml
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.csprojResolveAssemblyReference.cache
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.dll
+C:\Users\Sephiroth\Desktop\Blog Dovrshen\SEDC.CodeAcademy.MVC.BlogSite\obj\Release\SEDC.CodeAcademy.MVC.BlogSite.pdb

@@ -1,0 +1,34 @@
+﻿
+@model List<SEDC.CodeAcademy.MVC.BlogSite.Entities.BlogPost>
+
+@{
+    ViewBag.Title = "Blog Posts";
+}
+
+<h2>Blog Posts</h2>
+<hr />
+<section id="blogs">
+    @foreach (var item in Model)
+    {
+        <article id="@item.ID">
+            <div class="tags">
+                @foreach (string tag in item.Tags.Split(';'))
+                {
+                    string tTag = tag.Trim();
+                    if (!string.IsNullOrWhiteSpace(tag))
+                    {
+                        <a href="~/Blog?tag=@tTag" class="btn btn-warning btn-sm">@tTag</a>
+                    }
+                }
+            </div>
+            <div>@item.DateCreated.ToString("D")</div>
+            <h2>@item.Title</h2>
+            <p>
+                @item.Intro
+            </p>
+            <p>
+                <a href="~/Blog/Details/@item.ID" class="btn btn-info">Read more...</a>
+            </p>
+        </article>
+    }
+</section>
