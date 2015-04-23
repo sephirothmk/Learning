@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MVCHomework1.Session1.Models.Book>
+
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>Books</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Cover
+        </th>
+        <th>
+            Book Title
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Author
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="@item.PictureUrl" class="cover"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price) $
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+
+        </tr>
+    }
+
+
+</table>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>

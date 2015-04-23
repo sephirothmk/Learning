@@ -1,0 +1,31 @@
+﻿@model MVCHomework1.Session1.Models.News
+
+@{
+    ViewBag.Title = "Today's news";
+}
+
+<h2>Today's news</h2>
+
+<div>
+    
+
+    <h3>Content</h3>
+
+    <p> @Html.DisplayFor(model => model.NewsContent)</p>
+    <hr />
+       
+
+       
+    <h3>Date</h3>
+       
+
+       
+    <p> @Html.DisplayFor(model => model.DatePosted)</p>
+
+
+
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List", "News")
+</p>
