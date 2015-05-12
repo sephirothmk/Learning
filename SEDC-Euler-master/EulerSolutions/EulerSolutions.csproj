@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49F65A6F-D340-4E31-BA77-E1F164579E39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EulerSolutions</RootNamespace>
+    <AssemblyName>EulerSolutions</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DKotoski\DKotoskiSolver.cs" />
+    <Compile Include="DKotoski\Problem1.cs" />
+    <Compile Include="DKotoski\Problem10.cs" />
+    <Compile Include="DKotoski\Problem11.cs" />
+    <Compile Include="DKotoski\Problem2.cs" />
+    <Compile Include="DKotoski\Problem3.cs" />
+    <Compile Include="DKotoski\Problem4.cs" />
+    <Compile Include="DKotoski\Problem5.cs" />
+    <Compile Include="DKotoski\Problem6.cs" />
+    <Compile Include="DKotoski\Problem7.cs" />
+    <Compile Include="DKotoski\Problem8.cs" />
+    <Compile Include="DKotoski\Problem9.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SWeko\Extensions.cs" />
+    <Compile Include="SWeko\Factor.cs" />
+    <Compile Include="SWeko\FactorCollection.cs" />
+    <Compile Include="SWeko\PrimeManager.cs" />
+    <Compile Include="SWeko\Problem002.cs" />
+    <Compile Include="SWeko\Problem001.cs" />
+    <Compile Include="SWeko\Problem003.cs" />
+    <Compile Include="SWeko\Problem004.cs" />
+    <Compile Include="SWeko\Problem005.cs" />
+    <Compile Include="SWeko\Problem006.cs" />
+    <Compile Include="SWeko\Problem007.cs" />
+    <Compile Include="SWeko\Problem008.cs" />
+    <Compile Include="SWeko\Problem009.cs" />
+    <Compile Include="SWeko\Problem010.cs" />
+    <Compile Include="SWeko\Problem012.cs" />
+    <Compile Include="SWeko\SWekoSolver.cs" />
+    <Compile Include="VTotocevski\Problem1.cs" />
+    <Compile Include="VTotocevski\Problem10.cs" />
+    <Compile Include="VTotocevski\Problem2.cs" />
+    <Compile Include="VTotocevski\Problem3.cs" />
+    <Compile Include="VTotocevski\Problem4.cs" />
+    <Compile Include="VTotocevski\Problem5.cs" />
+    <Compile Include="VTotocevski\Problem6.cs" />
+    <Compile Include="VTotocevski\Problem7.cs" />
+    <Compile Include="VTotocevski\Problem8.cs" />
+    <Compile Include="VTotocevski\Problem9.cs" />
+    <Compile Include="VTotocevski\VTotocevskiSolver.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EulerEngine\EulerEngine.csproj">
+      <Project>{6A46E9AA-1019-4190-8466-978492181115}</Project>
+      <Name>EulerEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
